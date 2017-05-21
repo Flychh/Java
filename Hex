@@ -1,0 +1,9 @@
+
+package Main;
+
+public class Hex {
+
+	public static void main(String argv[]) {
+		Jeu.Menu();
+	}
+}
